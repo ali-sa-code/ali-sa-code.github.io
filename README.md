@@ -1,2 +1,2 @@
-# ali-sa-code.github.io
-Portfolio
+# Portfolio ## by Alina Savitskaya
+The training projects here
