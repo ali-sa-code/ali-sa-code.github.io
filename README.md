@@ -1,4 +1,5 @@
 # Portfolio 
 ## by Alina Savitskaya
 The training projects here
-* 1st training project - [PULSOMETRS](https://ali-sa-code.github.io/pulsometrs/ "pulsometrs")
+* 1st training project - [PULSOMETRS Landing Page](https://ali-sa-code.github.io/pulsometrs/ "pulsometrs")
+* 2nd training project - [FOOD Diet Landing Page](hhttps://ali-sa-code.github.io/Food_dist/ "food-diet")
